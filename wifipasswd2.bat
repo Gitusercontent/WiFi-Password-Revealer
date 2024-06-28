@@ -6,7 +6,7 @@
 setlocal enabledelayedexpansion
 
 :main
-    title WiFiPasswordReveal
+    title WiFiPasswordRevealer
     
     echo.
     echo Reveal all saved WiFi passwords 
